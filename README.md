@@ -1,6 +1,6 @@
 # GNOME-dots
 
-dot files for [rice](https://www.reddit.com/r/unixporn/comments/1aijfhi/gnome_first_rice_need_suggestions/)
+dot files for [rice](https://www.reddit.com/r/unixporn/comments/1aio7ox/gnome_deleted_prev_post_by_mistake/)
 
 [Theme](https://www.gnome-look.org/p/1695467/)
 
